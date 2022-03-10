@@ -245,3 +245,6 @@ typedef uint64_t  uintmax_t;
 
 
 #endif // _MSC_STDINT_H_ ]
+
+
+print("vmi")
